@@ -1,0 +1,7 @@
+﻿## Interface: 70000
+## Title: VioletHold Unstucker
+## Author: Nashara[Asitara] <Wolfsrudel> (Horde_EU-Sylvanas)
+## Notes: Release your body instantly, if you died in the Violet Hold.
+## Version: 0.0.1
+
+VioletHold_Unstucker.lua
